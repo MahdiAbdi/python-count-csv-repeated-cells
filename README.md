@@ -1,5 +1,5 @@
 # python-count-csv-repeated-cells
-A simple python script which count number of repeated cells and write result in a txt file
+A simple python script which counts number of repeated cells and writes the result in a txt file.
 
 *Python >= 3.6 required.*
 
